@@ -31,6 +31,8 @@
     "class-validator": "^0.14.1",
     "cookie": "^0.7.0",
     "dotenv": "^16.4.5",
+    "ethers": "^6.13.4",
+    "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.9.0",
     "mongoose": "^8.7.2",
     "reflect-metadata": "^0.2.0",
